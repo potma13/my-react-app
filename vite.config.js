@@ -6,6 +6,5 @@ export default defineConfig({
   base: '/my-react-app/',
   build: {
     outDir: 'dist',
-    copyPublicDir: true,
   },
 });
